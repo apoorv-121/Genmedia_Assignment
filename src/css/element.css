@@ -1,0 +1,15 @@
+.element-body {
+  background-color: rgb(96, 228, 184);
+  border-radius: 1rem;
+  padding: 1rem;
+  width: 25vw;
+  height: 600px;
+  display: inline-block;
+  margin: 2rem;
+}
+.image-body {
+  height: 200px;
+  /* width: 100px; */
+  width: fit-content;
+  object-fit: contain;
+}
